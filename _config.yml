@@ -60,6 +60,8 @@ tags_path: "/journal/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+include:
+  - info
 
 # SiteMap
 sitemap:
@@ -70,6 +72,5 @@ sitemap:
         - "/feed/index.xml"
     include_posts:
         - "/writing/"
-        - "/info/"
     change_frequency_name: "change_frequency"
     priority_name: "priority"
