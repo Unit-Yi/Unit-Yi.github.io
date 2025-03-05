@@ -2,7 +2,7 @@
 title: Unit-Yi
 email: "cjcobalt@icloud.com"
 description: "Gen-AI gallery"
-url: "https://Unit-Yi.github.io"
+url: "https://unityi.github.io"
 baseurl: ""
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://Unit-Yi.github.io/gallery/"  
-  - JOURNAL: "https://Unit-Yi.github.io/journal/"
-  - ABOUT: "https://Unit-Yi.github.io/about/"
+  - GALLERY: "https://unityi.github.io/gallery/"  
+  - JOURNAL: "https://unityi.github.io/journal/"
+  - ABOUT: "https://unityi.github.io/about/"
 
 # All translation keys
 translations:
