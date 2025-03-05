@@ -36,6 +36,7 @@ nav:
   - GALLERY: "https://unityi.github.io/gallery/"  
   - JOURNAL: "https://unityi.github.io/journal/"
   - Info: "https://unityi.github.io/info/"
+  - About: "https://unityi.github.io/about/"
 
 # All translation keys
 translations:
