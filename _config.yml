@@ -7,7 +7,7 @@ baseurl: ""
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
-github_username:  ""
+github_username:  "https://github.com/unityi"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -35,7 +35,7 @@ comments :
 nav:
   - GALLERY: "https://unityi.github.io/gallery/"  
   - JOURNAL: "https://unityi.github.io/journal/"
-  - ABOUT: "https://unityi.github.io/about/"
+  - Info: "https://unityi.github.io/info/"
 
 # All translation keys
 translations:
