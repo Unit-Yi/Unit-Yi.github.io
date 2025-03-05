@@ -35,8 +35,8 @@ comments :
 nav:
   - GALLERY: "https://unityi.github.io/gallery/"  
   - JOURNAL: "https://unityi.github.io/journal/"
-  - Info: "https://unityi.github.io/info/"
   - About: "https://unityi.github.io/about/"
+  - Info: "https://unityi.github.io/info/"
 
 # All translation keys
 translations:
