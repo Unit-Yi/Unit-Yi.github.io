@@ -33,7 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://unityi.github.io/gallery/"  
+  - GALLERY: "https://unityi.github.io/gallery/"
   - JOURNAL: "https://unityi.github.io/journal/"
   - About: "https://unityi.github.io/about/"
   - Info: "https://unityi.github.io/info/"
@@ -70,5 +70,6 @@ sitemap:
         - "/feed/index.xml"
     include_posts:
         - "/writing/"
+        - "/info/"
     change_frequency_name: "change_frequency"
     priority_name: "priority"
